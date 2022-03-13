@@ -1,0 +1,13 @@
+.card{display:inline-flex;
+    margin-left: 40px;
+    margin-right: -20px;
+    margin-bottom: 20px;
+    height: 375px;
+    }
+   .t{
+       text-align: center;
+       color: gold;
+   }
+   .e{
+       height: 70px;
+   }
